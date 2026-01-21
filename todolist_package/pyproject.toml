@@ -20,3 +20,6 @@ classifiers = [
     # More classifiers can be found at
 ]
 dependencies = []
+
+[project.urls]
+HOMEPAGE = "https://github.com/CA-Gray90/todolist"
