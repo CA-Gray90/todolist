@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "todolist_CAGray"
+version = "0.1.0"
+authors = [
+    {name = "Charles", email = "cgray888@gmail.com"},
+]
+description = "A fantastic todo list application."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {
+    text = "MIT"
+}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    # More classifiers can be found at
+]
+dependencies = []
