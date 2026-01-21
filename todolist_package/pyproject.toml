@@ -11,9 +11,7 @@ authors = [
 description = "A fantastic todo list application."
 readme = "README.md"
 requires-python = ">=3.8"
-license = {
-    text = "MIT"
-}
+license = "MIT"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
