@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/todolist_CAGray/__init__.py
+src/todolist_CAGray/todo.py
+src/todolist_CAGray/todolist.py
+src/todolist_CAGray.egg-info/PKG-INFO
+src/todolist_CAGray.egg-info/SOURCES.txt
+src/todolist_CAGray.egg-info/dependency_links.txt
+src/todolist_CAGray.egg-info/top_level.txt
+tests/test_todolist.py
